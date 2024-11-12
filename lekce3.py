@@ -102,3 +102,4 @@ plates = {"4A2 3000": "František Novák",
 #obedy = {"Jirka":"salát", "Kuba": "nudle", "Míša": "nudle"}
 #for key, value in obedy.items():
     #print (f"{key} měl (a) k obědu {value}.")
+#komentář test 1
